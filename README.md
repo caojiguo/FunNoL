@@ -1,4 +1,4 @@
-# The computing codes for the manuscript entitled "FUNCTIONAL NONLINEAR LEARNING!"
+# The computing codes for the manuscript entitled "FUNCTIONAL NONLINEAR LEARNING"
 
 The folder contains files to run the computing codes on the starlight data.
 
